@@ -1,5 +1,5 @@
 # Soeren Martius Home Page
-![](https://github.com/soerenmartius/soerenmartius.com/workflows/.github/workflows/main.yml/badge.svg)
+![](https://github.com/soerenmartius/soerenmartius.com/workflows/Deploy%20to%20Github%20Pages/badge.svg)
 ![](https://img.shields.io/uptimerobot/ratio/m783904443-1ec19823a103677b3ac8af41)
 
 This is the code for the [Soeren Martius Home Page](https://www.soerenmartius.com/).
