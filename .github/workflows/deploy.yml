@@ -1,6 +1,6 @@
 name: "Deploy to Github Pages"
 
-on: [push, repository_dispatch]
+on: [push]
 
 jobs:
   update:
