@@ -1,0 +1,16 @@
+# Soeren Martius Home Page
+
+This is the code for the [Soeren Martius Home Page](https://www.soerenmartius.com/).
+
+This is the code for my clean and super simple website based on [Gatsby](https://www.gatsbyjs.org/).
+
+
+## Quick start
+
+1. `git@github.com:soerenmartius/soerenmartius.github.io.git`
+1. Make sure you have [Gatsby](https://www.gatsbyjs.org/docs/quick-start/) installed.
+1. Build and serve dev environment: `gatsby develop`.
+1. Open: `http://localhost:8000`.
+
+See the [Gatsby](https://www.gatsbyjs.org/docs/) and [GitHub Pages](https://pages.github.com/)
+documentation for more info.
