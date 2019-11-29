@@ -25,4 +25,4 @@ jobs:
           git config --global user.email "soeren.martius@gmail.com"
           git remote rm origin # this is one nasty hack
           git remote add origin https://soerenmartius:${{ secrets.GITHUB_TOKEN }}@github.com/soerenmartius/soerenmartius.com.git
-          yarn run deploy
+          yarn deploy
