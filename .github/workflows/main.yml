@@ -1,0 +1,28 @@
+name: "Deploy to Github Pages"
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Set Node.js
+        uses: actions/setup-node@master
+        with:
+          node-version: 12.x
+
+      - name: Install dependencies
+        run: yarn install --prod --pure-lockfile
+
+      - name: Build & Deploy
+        run: |
+          git config --global user.name "Soren Martius"
+          git config --global user.email "soeren.martius@gmail.com"
+          git remote rm origin # this is one nasty workaround
+          git remote add origin https://soerenmartius:${{ secrets.GITHUB_TOKEN }}@github.com/soerenmartius/soerenmartius.com.git
+          yarn run deploy

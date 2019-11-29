@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/soerenmartius
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.soerenmartius.com
+  * I am soerenmartius (https://keybase.io/soerenmartius) on keybase.
+  * I have a public key ASCcZUFERb2HPStZoq_9tcfAcv4InmLopCXhdUjj3U_q5Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209c65414445bd873d2b59a2affdb5c7c072fe089e62e8a425e17548e3dd4feae40a",
+      "host": "keybase.io",
+      "kid": "01209c65414445bd873d2b59a2affdb5c7c072fe089e62e8a425e17548e3dd4feae40a",
+      "uid": "c924ab30d41dcf270d5115b887738219",
+      "username": "soerenmartius"
+    },
+    "merkle_root": {
+      "ctime": 1575035946,
+      "hash": "f6fedc5d0ee895086f72b2ac94b56e6361338a009a79c9a468e58b7bba240b4100b15e29b38ce309f48682b8945942b520301a7626a6512bdc77583dadbc7a0c",
+      "hash_meta": "44a12a9bef09f39b008251862404dfd84be7a5b4f671a35a4f871b4f94e81da6",
+      "seqno": 11313927
+    },
+    "service": {
+      "entropy": "tjzuHESwHVDPJGU6ezq2VkM9",
+      "hostname": "www.soerenmartius.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1575035952,
+  "expire_in": 504576000,
+  "prev": "1db8f05caebd09b7341c73fe4ac03a0e73f813368fd7ab441d7a97d15d2c8e9d",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnGVBREW9hz0rWaKv/bXHwHL+CJ5i6KQl4XVI491P6uQKp3BheWxvYWTESpcCGsQgHbjwXK69Cbc0HHP+SsA6DnP4EzaP16tEHXqX0V0sjp3EIFv/zK0VJBuqO9eo09n6p7MT2CqjD/pQlaEndxb9oAzCAgHCo3NpZ8RA4W7sP1MDJHfQ56W2D/Z6Kx4bzDpa6ZYIBAItlubPB3aO8ZH9kd9ukFpJhVKaiWynwCVQNsYDmjVH4UbBvafLCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFD9HqeGLOX0xiCTMpaRvPNuZ40tBPKndkVu2gkcS85to3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/soerenmartius
+
+==================================================================
