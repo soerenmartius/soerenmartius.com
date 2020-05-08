@@ -30,11 +30,9 @@ class HomeIndex extends React.Component {
                                 We help our customers  to implement  cutting edge infrastructure on Amazon Web Services,
                                 Google Cloud, Microsoft Azure and Alibaba Cloud.<br/><br/>
 
-                                I enjoy all kinds of sports,
-                                 <a href="https://www.goodreads.com/user/show/108344935-soren-martius">reading</a> and
-                                travelling.<br/>
-                                Sometimes, I write aabout what moves me on
-                                 <a href="https://medium.com/@soeren.martius" ref="_blank">medium</a>.
+                                I enjoy all kinds of sports, <a href="https://www.goodreads.com/user/show/108344935-soren-martius">reading</a> and
+                                traveling.<br/>
+                                Sometimes, I write about what moves me on <a href="https://medium.com/@soeren.martius" ref="_blank">medium</a>.
                             </p>
                             <br/><br/>
                         </header>
