@@ -7,7 +7,7 @@ class HomeIndex extends React.Component {
 
     render() {
         const siteTitle = "Home Page of Soeren Martius"
-        const siteDescription = "The Home Page of Soeren Martius. Entrepreneur and technologist who loves building and delivering digital products and managing and scaling engineering teams."
+        const siteDescription = "The Home Page of Soeren Martius. Founder and CEO of Mineiros.io"
 
         return (
             <Layout>
@@ -31,10 +31,10 @@ class HomeIndex extends React.Component {
                                 Google Cloud, Microsoft Azure and Alibaba Cloud.<br/><br/>
 
                                 I enjoy all kinds of sports,
-                                <a href="https://www.goodreads.com/user/show/108344935-soren-martius">reading</a> and
+                                 <a href="https://www.goodreads.com/user/show/108344935-soren-martius">reading</a> and
                                 travelling.<br/>
-                                Sometimes, I write about what moves me on
-                                <a href="https://medium.com/@soeren.martius" ref="_blank">medium</a>.
+                                Sometimes, I write aabout what moves me on
+                                 <a href="https://medium.com/@soeren.martius" ref="_blank">medium</a>.
                             </p>
                             <br/><br/>
                         </header>
