@@ -21,8 +21,22 @@ class HomeIndex extends React.Component {
                     <section id="one">
                         <header className="major">
                             <h2>About me</h2>
-                            Entrepreneur and technologist who loves building and delivering digital products and managing
-                            and scaling engineering teams for various kinds of businesses.<br/><br/>
+                            <p>
+                                I am an entrepreneur and technologist and I love building
+                                and delivering digital products and managing and scaling engineering teams for various
+                                kinds of businesses.<br/><br/>
+
+                                Also, I am the founder of <a href="https://mineiros.io">mineiros.io</a>.
+                                We help our customers  to implement  cutting edge infrastructure on Amazon Web Services,
+                                Google Cloud, Microsoft Azure and Alibaba Cloud.<br/><br/>
+
+                                I enjoy all kinds of sports,
+                                <a href="https://www.goodreads.com/user/show/108344935-soren-martius">reading</a> and
+                                travelling.<br/>
+                                Sometimes, I write about what moves me on
+                                <a href="https://medium.com/@soeren.martius" ref="_blank">medium</a>.
+                            </p>
+                            <br/><br/>
                         </header>
                         <p>
                             I like simplicity, pragmatism and common sense
